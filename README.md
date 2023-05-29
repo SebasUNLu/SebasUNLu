@@ -30,6 +30,7 @@ Me gusta programar, los videojuegos, y estoy dispuesto a embarcarme en este mund
 
 ## 🚀 Proyectos Destacados 🚀
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SebasUNLu&repo=henry-project-flipper)](https://github.com/SebasUNLu/henry-project-flipper)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SebasUNLu&repo=PI-Countries-main)](https://github.com/SebasUNLu/PI-Countries-main)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SebasUNLu&repo=HenryShop)](https://github.com/SebasUNLu/HenryShop)
 
