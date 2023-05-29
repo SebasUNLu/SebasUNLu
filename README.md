@@ -14,6 +14,8 @@ Me gusta programar, los videojuegos, y estoy dispuesto a embarcarme en este mund
 
 👉 Redux
 
+👉 Next.js
+
 👉 Express
 
 👉 MongoDB y Mongoose
